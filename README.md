@@ -27,8 +27,6 @@ Data Science Enthusiast | Exploring intersections of Machine Learning, Optics, a
 
 <a href="http://www.github.com/ncc-chandni"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ncc-chandni&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ncc-chandni"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ncc-chandni&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ncc-chandni/https://github.com/ncc-chandni/Material_Properties" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ncc-chandni&repo=https://github.com/ncc-chandni/Material_Properties&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ncc-chandni/https://github.com/ncc-chandni/Physical-Intrusion-Detection-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ncc-chandni&repo=https://github.com/ncc-chandni/Physical-Intrusion-Detection-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
